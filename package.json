@@ -1,0 +1,8 @@
+{
+  "name": "xime-gate-otp-engine",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "otpauth": "^9.2.0"
+  }
+}
